@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import '../css/cancerawareness.css'
+import '../css/CancerAwareness.css'
 
 
 const quoteList = [
