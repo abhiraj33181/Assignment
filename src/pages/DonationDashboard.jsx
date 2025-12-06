@@ -1,5 +1,5 @@
 import { Bar } from "react-chartjs-2";
-import '../css/DonationDashboard.css'
+import "../css/donation-dashboard.css";
 import {
     Chart as ChartJS,
     BarElement,
